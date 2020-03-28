@@ -1,0 +1,8 @@
+*{margin: 0}
+ul, li, ol{list-style: none; text-decoration: none}
+a{text-decoration: none}
+ul li{font: bold 24px/24px '';}
+ul li a{color: red}
+ul li:hover{font: bold 38px/38px ''}
+ul li img{width: 100px; background-color: pink}
+ul li img:hover{width: 80px}
